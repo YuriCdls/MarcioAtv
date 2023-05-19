@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(232, 151, 30);
+}
+
+body h1{
+    display: flex;
+    align-items: center;
+}
+
